@@ -1,8 +1,8 @@
 Screen1 As screen:
 
     txtName As text:
-        Default: ="Enter some text"
-        X: =80
-        Y: =80
+        Default: ="Type a name"
+        X: =100
+        Y: =100
         ZIndex: =1
 
