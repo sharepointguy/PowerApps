@@ -93,6 +93,7 @@
     "UserLocale": "en-US"
   },
   "ScreenOrder": [
-    "Screen2"
+    "Screen2",
+    "Screen1"
   ]
 }
