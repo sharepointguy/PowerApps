@@ -2,7 +2,7 @@ Screen1 As screen:
 
     txtName As text:
         Default: ="Type a name"
-        X: =100
-        Y: =100
+        X: =(App.Width-Self.Width)/2
+        Y: =332
         ZIndex: =1
 
