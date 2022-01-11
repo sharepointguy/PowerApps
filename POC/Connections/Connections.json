@@ -1,0 +1,20 @@
+{
+  "214cd1f8-851c-4d8c-a3dc-d8db8abcecd4": {
+    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_office365/connections/shared-office365-0963af69-ef1b-4924-aed6-b71bb4c051bb",
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "displayName": "Office 365 Outlook",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1538/1.0.1538.2621/office365/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_office365"
+    },
+    "datasets": {},
+    "dataSources": [
+      "Office365Outlook"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "214cd1f8-851c-4d8c-a3dc-d8db8abcecd4"
+  }
+}
