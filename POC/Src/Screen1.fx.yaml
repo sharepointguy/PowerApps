@@ -3,6 +3,6 @@ Screen1 As screen:
     txtName As text:
         Default: ="Type a name"
         X: =(App.Width-Self.Width)/2
-        Y: =332
+        Y: =(App.Height-Self.Height)/2
         ZIndex: =1
 
